@@ -1,4 +1,4 @@
 # Conflict Demo
 
-Favorite color: TBD
+Favorite color: all of them
 
