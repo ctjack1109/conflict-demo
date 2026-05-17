@@ -1,4 +1,4 @@
 # Conflict Demo
 
-Favorite color: all of them
 
+Favorite color: Sea Foam Green and all of them
